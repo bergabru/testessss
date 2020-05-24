@@ -1,0 +1,80 @@
+body {
+    font-family: cursive;
+    background-image: url("../images/imagem2.jpeg");
+}
+
+.container {
+    height: 900px;
+    width: 1300px;
+    text-align: center;
+}
+
+.cantinho {
+    float: right;
+}
+
+.trepa {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.cont-2 img {
+    height: 250px;
+    width: 250px;
+    float: left;
+    box-sizing: border-box;
+    margin: 15px 27px 20px;
+}
+
+.cont-2 h1 {
+    box-sizing: border-box;
+    margin: auto;
+    float: left;
+}
+
+.cont-2 {
+    height: 500px;
+    width: 1230px;
+    margin: 40px;
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.teste {
+    float: right;
+}
+
+.fotomimi {
+    float: right;
+}
+
+.img1 {
+    width: 300px;
+    height: 450px;
+    float: left;
+    margin: auto;
+}
+
+.img2 {
+    width: 350px;
+    height: 450px;
+    float: right;
+    clear: right;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+p {
+    color: blue;
+}
+
+.teamo {
+    float: left;
+    margin-top: 340px;
+    margin: auto;
+    font-size: 10px;
+    color: black;
+}
